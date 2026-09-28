@@ -101,5 +101,5 @@ $$\min_{N,D,Q,\mathbf{p}} L(N,D,Q,\mathbf{p}),\qquad \text{s.t. } C_{\mathrm{tot
 
 ## VIII. 作者
 
-**Copyright &copy; 2026 蘭州交通大學電子與信息工程學院 [何非凡 (HE Feifan; HÀ Phi Phàm)](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1835.htm)、[杜宇 (DU Yu; ĐỖ Vũ)](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1837.htm)、閆媛媛 (YAN Yuanyuan; DIÊM Viện Viện)。指導教師：[陳梅教授 (Prof. CHEN Mei; TRẦN Mai)](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/list/index.htm)**
+**Copyright &copy; 2026 [何非凡 (HE Feifan; HÀ Phi Phàm)](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1835.htm)、[杜宇 (DU Yu; ĐỖ Vũ)](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1837.htm)、閆媛媛 (YAN Yuanyuan; DIÊM Viện Viện)。指導教師：[陳梅教授 (Prof. CHEN Mei; TRẦN Mai)](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/list/index.htm), 蘭州交通大學電子與信息工程學院**
 
